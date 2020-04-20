@@ -1,0 +1,13 @@
+{
+  "group": "things",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:potato"
+    }
+  ],
+  "result": {
+    "item": "things:rawfries",
+    "count": 1
+  }
+}

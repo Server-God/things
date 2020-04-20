@@ -1,0 +1,11 @@
+{
+  "group": "things",
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "ingredient": {
+    "item": "things:cbronzeblock"
+  },
+  "result": {
+    "item": "things:celestialbronze"
+  }
+}

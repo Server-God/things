@@ -1,0 +1,24 @@
+{
+  "group": "things",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "things:bonesteelingot"
+    },
+    "1": {
+      "item": "things:bonesteelingot"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "things:bronzesword",
+    "count": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "_fv": 6,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "igoldsword",
+    "customModelName": "Normal",
+    "name": "Imperial Gold Sword",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "stackSize": 14,
+    "enchantability": 25,
+    "useDuration": 0,
+    "toolType": 1.5,
+    "damageCount": 500,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": false,
+    "enableMeleeDamage": true,
+    "damageVsEntity": 12.0,
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

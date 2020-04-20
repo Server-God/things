@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "things:blocks/cbronzet",
+    "up": "things:blocks/cbronzet",
+    "north": "things:blocks/cbronzet",
+    "east": "things:blocks/cbronzet",
+    "south": "things:blocks/cbronzet",
+    "west": "things:blocks/cbronzet",
+    "particle": "things:blocks/cbronzet"
+  }
+}
